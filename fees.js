@@ -1,3 +1,7 @@
+
+
+console.log("FEES.JS FILE LOADED");
+
 async function waitForCore() {
   
   while (
